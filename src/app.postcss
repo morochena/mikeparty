@@ -1,0 +1,21 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	@font-face {
+		font-family: 'Raleway Dots';
+		src: local('Raleway Dots'), local('Raleway-Dots'), local('raleway dots'), local('raleway-dots'),
+			url('/RalewayDots-Regular.ttf');
+		font-weight: normal;
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'Metropolis';
+		src: local('Metropolis'), local('metropolis'), url('/Metropolis-Regular.otf');
+		font-weight: normal;
+		font-display: swap;
+	}
+}
