@@ -2,7 +2,6 @@
 	import main from '$lib/assets/main.jpg';
 	import mike1 from '$lib/assets/mike1.jpeg';
 	import mike2 from '$lib/assets/mike2.png';
-	import mike3 from '$lib/assets/mike3.jpeg';
 </script>
 
 <div
