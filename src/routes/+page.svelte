@@ -14,9 +14,9 @@
 />
 
 <div
-	class="flex justify-center items-center flex-col gap-4 w-8/12 mx-auto py-16 font-metropolis text-center"
+	class="flex justify-center items-center flex-col gap-4 w-8/12 mx-auto pt-16 pb-32 font-metropolis text-center"
 >
-	<img class="w-1/3" src={main} alt="mike's party" />
+	<img class="min-w-[200px] w-1/3" src={main} alt="mike's party" />
 
 	<div class="flex">
 		<div class="text-4xl">🎉</div>
@@ -43,9 +43,9 @@
 		Don't miss out on the fun and make sure to RSVP by August 18th.
 	</p>
 
-	<img class="w-1/3" src={mike1} alt="mike's party" />
+	<img class="min-w-[200px] w-1/3" src={mike1} alt="mike's party" />
 
 	<p class="text-lg font-italic">See you there, old sport! 🥂🎷🎂</p>
 
-	<p class="text-sm text-xl">#MikesRoaring30 #PartyLikeIts1923</p>
+	<p class="text-xl">#MikesRoaring30 #PartyLikeIts1923</p>
 </div>
